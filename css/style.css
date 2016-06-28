@@ -1,0 +1,33 @@
+body{
+	
+	background-color: #f4f4f4;
+	font-family: arial;
+	font-size: 14px;
+}
+
+h1{
+	
+	color:red;
+}
+
+p.blueClass{
+	
+	color:blue;
+}
+
+#container{
+	
+	width:460px;
+	margin:auto;
+	border:1px solid #cccccc;
+	padding:0 20px 20px 20px;
+	border-radius:10px;
+	text-align: center;
+	background: #ffffff;
+}
+
+img{
+	
+	border:#666 1px solid;
+	padding: 4px;
+}
